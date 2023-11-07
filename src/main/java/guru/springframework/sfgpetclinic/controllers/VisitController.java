@@ -12,7 +12,6 @@ import java.util.Map;
 
 
 public class VisitController {
-
     private final VisitService visitService;
     private final PetService petService;
 
